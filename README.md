@@ -13,4 +13,4 @@ To view it locally, download CLT.py and run `bokeh serve --show CLT.py` from the
 [![Central Limit Theorem](https://github.com/alexspili/Central_Limit_Theorem/blob/master/CLT_3.png "Bootstrap sampling")][here]
 [![Central Limit Theorem](https://github.com/alexspili/Central_Limit_Theorem/blob/master/CLT_4.png "Normal vs t-distribution")][here]
 
-[here]: http://34.212.227.255:5006/CLT
+[here]: http://alexspiliotopoulos.com/aws/CLT
